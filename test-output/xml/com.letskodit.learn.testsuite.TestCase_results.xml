@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test Case"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.945">
+  <properties />
+  
+  
+            <testcase name="navigateSuccessfullyToLoginPage" time="0.307" classname="com.letskodit.learn.testsuite.TestCase" />
+                <testcase name="navigateSuccessfullyToSignupPage" time="0.219" classname="com.letskodit.learn.testsuite.TestCase" />
+                <testcase name="navigateSuccessfullyToPracticePage" time="0.271" classname="com.letskodit.learn.testsuite.TestCase" />
+                <testcase name="userShouldSelectHondaElementFromDropDownMenu" time="0.148" classname="com.letskodit.learn.testsuite.TestCase" />
+      
+</testsuite>
